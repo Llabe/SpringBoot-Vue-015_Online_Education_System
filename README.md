@@ -59,7 +59,7 @@ src/
 url: jdbc:mysql://127.0.0.1:3306/springboot8525u?useUnicode=true
 username: root
 password: root
-
+```
 
 # 项目实际截图：
 
